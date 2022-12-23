@@ -1,0 +1,7 @@
+mongodb+srv://root:kldas13@cluster0.y5ydcpe.mongodb.net/?retryWrites=true&w=majority
+
+
+https://ap-south-1.aws.data.mongodb-api.com/app/application-0-lcwyg/endpoint/insta
+
+
+CLOUDINARY_URL=cloudinary://451697359618418:wMAHS0JXAAapvUTm2pnUmS9S73I@dvsyjjryn
